@@ -1,3 +1,6 @@
+# Motivation
+Site build with React, Formik and Yup. This site follows the instructions of the Udemy's course 'The complete Full-Stack JAvaScript Course': https://www.udemy.com/course/full-stack-javascript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
